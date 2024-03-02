@@ -1,5 +1,9 @@
 # HIVE AGENT (alpha)
 
+## Watch Demo at ETHDenver 2024
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eL6m_bnK938/0.jpg)](https://www.youtube.com/watch?v=eL6m_bnK938)
+
+
 ## Requirements
 - [Node.js](https://nodejs.org/en/download) >= v20.10.0
 - [Python](https://www.python.org/downloads/) >= v3.11.7
