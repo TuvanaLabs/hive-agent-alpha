@@ -1,3 +1,5 @@
+> **⚠️ THIS REPO HAS BEEN ARCHIVED. PLEASE USE https://github.com/hivenetwork-ai/hive-agent-py ⚠️**
+
 # HIVE AGENT (alpha)
 
 ## Watch Demo at ETHDenver 2024
